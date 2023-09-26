@@ -1,1 +1,4 @@
-# Sitemate-challenge
+# Sitemate challenge
+
+## Starting the Server
+
